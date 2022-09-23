@@ -1,0 +1,9 @@
+.bg-image {
+    background-image: url('../../assets/bg2.jpg');
+    background-repeat: no-repeat center center;
+    background-size: cover;
+}
+
+.card_shadow {
+    box-shadow: 5px 5px 12px #ccc ;
+}
